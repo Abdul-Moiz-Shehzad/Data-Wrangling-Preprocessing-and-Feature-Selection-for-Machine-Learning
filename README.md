@@ -1,0 +1,2 @@
+# Data-Wrangling-Preprocessing-and-Feature-Selection-for-Machine-Learning
+This project involves data wrangling and preprocessing, including data cleaning, transformation, normalization, and standardization. It applies feature selection techniques like filter, wrapper, and embedded methods, followed by machine learning classification models. Finally, it evaluates the performance of these models on test data.
